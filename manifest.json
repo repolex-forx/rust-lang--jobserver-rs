@@ -70,7 +70,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/nix-0.28.0/src/unistd.rs"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/4bcd123ffc997020367416a970ae20577a76a583/chunk-001.nq.gz",
+      "dep": "dep/4bcd123ffc997020367416a970ae20577a76a583.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
