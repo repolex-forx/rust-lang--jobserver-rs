@@ -1,0 +1,11 @@
+{
+  "org": "rust-lang",
+  "repo": "jobserver-rs",
+  "versions": [
+    {
+      "commit": "4bcd123ffc997020367416a970ae20577a76a583",
+      "tag": "0.1.34",
+      "parsed_at": "2026-11-22T10:01:06.290601+00:00"
+    }
+  ]
+}
