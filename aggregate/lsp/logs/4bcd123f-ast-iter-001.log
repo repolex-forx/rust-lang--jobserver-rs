@@ -1,0 +1,7 @@
+[2026-11-22T09:56:05Z] === AST ITERATION 1 START | repo=rust-lang/jobserver-rs sha=4bcd123f ===
+[2026-11-22T09:56:05Z] [iter=1] PHASE START: ast repo=rust-lang/jobserver-rs sha=4bcd123f
+[2026-11-22T09:56:05Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T09:56:15Z] [iter=1] AST chunks built count=1 triples=85479
+[2026-11-22T09:56:15Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/4bcd123ffc997020367416a970ae20577a76a583/.complete
+[2026-11-22T09:56:15Z] [iter=1] PHASE END: ast elapsed_s=9 elapsed_min=0.2
+[2026-11-22T09:56:15Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
